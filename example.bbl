@@ -1,0 +1,50 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \sortlist[entry]{nyt/global/}
+    \entry{Pletscher2012}{inproceedings}{}
+      \name{author}{2}{}{%
+        {{uniquename=0,hash=6eb0f78223ac865169122f094a92105f}{%
+           family={Pletscher},
+           family_i={P\bibinitperiod},
+           given={Patrick},
+           given_i={P\bibinitperiod}}}%
+        {{uniquename=0,hash=052b265d7aeb023623fd1b2fd8fc8436}{%
+           family={Wulff},
+           family_i={W\bibinitperiod},
+           given={Sharon},
+           given_i={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{57e6f2471a21c1b23657f4423db74e5b}
+      \strng{fullhash}{57e6f2471a21c1b23657f4423db74e5b}
+      \field{sortinit}{P}
+      \field{sortinithash}{c0a4896d0e424f9ca4d7f14f2b3428e7}
+      \field{labelyear}{2012}
+      \field{datelabelsource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{ICML}
+      \field{title}{{LPQP} for {MAP}: Putting {LP} Solvers to Better Use}
+      \field{year}{2012}
+    \endentry
+  \endsortlist
+\endrefsection
+\endinput
+
